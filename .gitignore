@@ -9,6 +9,7 @@ example/
 *.swp
 *.source.js
 *.work.js
+bower.json
 /.tmp/
 /config.js
 /uploads
